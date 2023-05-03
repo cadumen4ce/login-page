@@ -1,0 +1,35 @@
+.elements {
+    height: 100vh;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+.users {
+    font-family: Arial;
+}
+.txt-input{
+    width: 350px;
+    height: 40px;
+}
+.pass-input{
+    width: 350px;
+    height: 40px;
+}
+h1 {
+    font-family: Arial;
+}
+.avatar{
+    height: 15%;
+    margin-left: 9%;
+}
+.button {
+    height: 40px;
+    width: 353px;
+    color: white;
+    background-color: rgb(95, 155, 4);
+    border: 0;
+    border-radius: 5px;
+}
+p {
+    color: blue;
+    text-decoration: underline;
+}
